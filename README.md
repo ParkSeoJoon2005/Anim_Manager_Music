@@ -79,3 +79,8 @@ If you donlt like to play in linked channel:
 - `/gcast <reply to message>` - globally brodcast replied message to all chats
 - `/pmpermit [on/off]` - enable/disable pmpermit message
 
+#### Special Credits
+- [Me](https://github.com/SenuGamerBoy/Anim_Manager_Music): This Repo Dev
+- [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
+- [Sadew](https://github.com/Sadew451) 💖
+
