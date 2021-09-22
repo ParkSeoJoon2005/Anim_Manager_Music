@@ -86,3 +86,4 @@ For linked group admins only:
 - [Sadew](https://github.com/Sadew451) 💖
 
 This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Anim Manager Music won't exist. 
+Anim Manager Music is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic)
