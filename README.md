@@ -16,14 +16,14 @@ Features 🔥
 
 # ✅ 𝘿𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩
 
-💜 Heroku
+💚 Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SenuGamerBoy/Anim_Manager_Music)
 
 # Get `SESSION` from here:
 
 [![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@SenuGamerBoy/Session-senuinfinity)
 
-### Commands for Group 🛠
+### Commands for Group 🏹
 #### For all in group
 
 - `/play <song name>` - play song you requested
