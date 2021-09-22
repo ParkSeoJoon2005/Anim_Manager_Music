@@ -15,3 +15,6 @@ Features 🔥
 * Keyboard selection support for youtube play
 
 # ✅ 𝘿𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩
+
+💜 Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SenuGamerBoy/Anim_Manager_Music)
