@@ -22,3 +22,19 @@ Features 🔥
 # Get `SESSION` from here:
 
 [![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@SenuGamerBoy/Session-senuinfinity)
+
+### Commands for Group 🛠
+#### For all in group
+
+- `/play <song name>` - play song you requested
+- `/play <reply to audio>` - play replied file
+- `/dplay <song name>` - play song you requested via deezer
+- `/splay <song name>` - play song you requested via jio saavn
+- `/ytplay <song name>`: Directly play song via Youtube Music
+- `/playlist` - Show now playing list
+- `/current` - Show now playing
+- `/song <song name>` - download songs you want quickly
+- `/search <query>` - search videos on youtube with details
+- `/deezer <song name>` - download songs you want quickly via deezer
+- `/saavn <song name>` - download songs you want quickly via saavn
+- `/video <song name>` - download videos you want quickly
