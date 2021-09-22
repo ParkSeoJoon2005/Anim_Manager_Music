@@ -18,3 +18,7 @@ Features 🔥
 
 💜 Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SenuGamerBoy/Anim_Manager_Music)
+
+Get `SESSION` from here:
+
+[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@SenuGamerBoy/Session-senuinfinity)
