@@ -67,7 +67,7 @@ For linked group admins only:
 - `/userbotjoinchannel` - invite assistant to your chat
 * channel is also can be used instead of c
 
-If you donlt like to play in linked channel:
+♻ If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
  3. Add @AnimX_Robot as Channel admin with full perms
