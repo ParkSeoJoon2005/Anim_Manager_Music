@@ -17,7 +17,7 @@ Features 🔥
 # ✅ 𝘿𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩
 
 💚 Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SenuGamerBoy/Anim_Manager_Music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Parkseojoon2005/Anim_manager_music)
 
 # Get `SESSION` from here:
 
