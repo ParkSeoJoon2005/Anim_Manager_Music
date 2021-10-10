@@ -1,8 +1,8 @@
 {
-  "name": "Anim_Manager_Music",
+  "name": "Aurora X",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls. @senuinfinity",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/SenuGamerBoy/Anim_Manager_Music",
+  "repository": "https://github.com/Parkseojoon2005/Anim_manager_music",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
